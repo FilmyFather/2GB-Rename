@@ -1,4 +1,4 @@
-# md-renamebot 
+# FILMYDESIFLIX - 2GB Rename Bot
 
 <p align="center">
   <a href="https://https://github.com/Mdbotz/md-renamebot/stargazers">
@@ -20,7 +20,7 @@ A ADVANCE RENAME BOT WITH CUSTOM CAPTION AND THUMBNAIL SUPPORT
 
 # DEPLOY TO KOYEB
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Greymattersbot/md-renamebot&branch=main&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository= github.com/FilmyFather/2GB-Rename&branch=main&name=urlshortautofilterbot)
 
 # FEATURES 
 
