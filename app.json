@@ -1,5 +1,5 @@
 {
-  "name": "md-renamebot",
+  "name": "FilmyDesiFlix-renamebot",
   "stack": "container",
   "description": "A simple rename bot with many features",
   "keywords": [
@@ -10,8 +10,8 @@
     "Rename",
     "pyrogram"
   ],
-  "website": "https://github.com/Mdbotz/md-renamebot",
-  "repository": "https://github.com/Mdbotz/md-renamebot",
+  "website": "https://github.com/FilmyFather/2GB-Rename",
+  "repository": "https://github.com/FilmyFather/2GB-Rename",
   "env": {
     "API_ID": {
       "description": "Get this value from https://my.telegram.org",
@@ -45,7 +45,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
